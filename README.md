@@ -1,5 +1,7 @@
 # BitWhisper — Covert Thermal Signaling Channel
 
+![BitWhisper: two air-gapped PCs communicating via heat](assets/social.png)
+
 Implementation of Guri et al., *"BitWhisper: Covert Signaling Channel between
 Air-Gapped Computers using Thermal Manipulations"* ([arXiv:1503.07919](https://arxiv.org/abs/1503.07919)).
 
